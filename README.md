@@ -39,7 +39,7 @@ The dataset contains customer lifecycle information including:
 
 - **Microsoft Excel** – Dataset creation, cleaning, and preparation
 - **Power BI Desktop** – Data modeling, dashboard development, and visualization
-- **DAX** – Customer success metrics and calculations
+- **DAX Measures** – Customer health metrics, retention KPIs, and customer success calculations
 
 ## Business Questions Answered
 
@@ -51,6 +51,14 @@ The dashboard was designed to answer key customer success questions:
 - What factors influence churn risk?
 - How effective is customer onboarding?
 - Which customers require proactive intervention?
+
+## Dashboard Preview
+
+A preview image of the Power BI dashboard is included above.
+
+Interactive Power BI dashboard file:
+
+**FlowMetrics_Customer_Success_Dashboard.pbix**
 
 ## Dashboard Features
 
@@ -89,6 +97,20 @@ Analyzes customers by:
 - Industry
 - Subscription plan
 - Risk category
+
+## Customer Success Metrics Tracked
+
+The dashboard tracks important SaaS customer success indicators including:
+
+- Customer Health Score
+- Churn Risk Level
+- Renewal Rate
+- CSAT Score
+- Product Adoption
+- Login Engagement
+- Support Ticket Activity
+- Onboarding Completion
+- Customer Segmentation
 
 ## Key Insights
 
@@ -136,7 +158,7 @@ Dashboard preview image.
 
 ## Project Outcome
 
-This project demonstrates how customer success teams can leverage analytics and business intelligence dashboards to identify customer risks, improve customer experience, increase retention, and support growth decisions.
+This project demonstrates how Customer Success Managers and Operations teams can use data-driven insights to monitor customer health, identify churn risks, improve onboarding outcomes, and create proactive retention strategies.
 
 ---
 
